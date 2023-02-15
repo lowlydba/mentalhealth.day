@@ -10,6 +10,13 @@ title: I am taking a mental health day.
 
 Taking a day off of work or school to focus on your emotional wellness. It’s similar to a traditional sick day, except that you don’t need to have a physical illness or injury to use it.
 
+Some common reasons people take mental health days are:
+
+- feeling burnt out from day-to-day job responsibilities
+- dealing with personal mental health issues
+- working through grief
+- experiencing an imbalance between work and home
+
 <br/>
 
 ### What is this site for?
@@ -32,6 +39,8 @@ To personalize who the day is for, add your name or handle via `?for=` when link
 <br/>
 
 ### Need more than just a day off?
+
+For urgent help in the United States, dial 988 to reach the [Suicide & Crisis Lifeline](https://988lifeline.org/).
 
 Seek professional help if you are experiencing severe or distressing symptoms that have lasted 2 weeks or more, such as:
 
