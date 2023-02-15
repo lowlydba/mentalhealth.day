@@ -40,7 +40,7 @@ To personalize who the day is for, add your name or handle via `?for=` when link
 
 ### Need more than just a day off?
 
-For urgent help in the United States, dial 988 to reach the [Suicide & Crisis Lifeline](https://988lifeline.org/).
+For urgent help in the United States, dial 988 to reach the [Suicide & Crisis Lifeline][988]. For international resources, check [here][twloha].
 
 Seek professional help if you are experiencing severe or distressing symptoms that have lasted 2 weeks or more, such as:
 
@@ -56,3 +56,5 @@ Don’t wait until your symptoms are overwhelming. Talk about your concerns with
 [stanford]: https://news.stanford.edu/2015/06/30/hiking-mental-health-063015/
 [nimh-tips]: https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider/index.shtml
 [nimh-help]: https://www.nimh.nih.gov/health/find-help/index.shtml
+[twloha]: https://twloha.com/find-help/international-resources/
+[988]: https://988lifeline.org/
