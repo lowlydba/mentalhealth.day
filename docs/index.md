@@ -10,6 +10,8 @@ title: I am taking a mental health day.
 
 Taking a day off of work or school to focus on your emotional wellness. It’s similar to a traditional sick day, except that you don’t need to have a physical illness or injury to use it.
 
+<br/>
+
 ### What should I do on a mental health day?
 
 - **Get outside** - A [Stanford][stanford] study showed that those who live in dense cities are 20% more likely to experience anxiety disorders than individuals who live in more rural, or “green”, areas. So take a walk or sit on a park bench and enjoy the world around you.
@@ -19,11 +21,15 @@ Taking a day off of work or school to focus on your emotional wellness. It’s s
 - **Practice gratitude** - Remind yourself daily of things you are grateful for. Be specific. Write them down at night, or replay them in your mind.
 - **Focus on positivity** - Identify and challenge your negative and unhelpful thoughts.
 
+<br/>
+
 ### What is this site for?
 
 Use mentalhealth.day as a status in your workplace's chat apps ("I'm taking a [mentalhealth.day](https://mentalhealth.day)"), as your out of office auto-reply email, or on social media to indicate you're taking a break. Spreading awareness and normalizing self-care are important ways to destigmatize mental health.
 
 To personalize who the day is for, add your name or handle via `?for=` when linking to the site: [mentalhealth.day?for=John%20Doe](https://mentalhealth.day?for=John%20Doe)
+
+<br/>
 
 ### Need more than just a day off?
 
