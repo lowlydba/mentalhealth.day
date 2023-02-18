@@ -8,7 +8,7 @@ title: I am taking a mental health day.
 
 ## What is a mental health day?
 
-Taking a day off of work or school to focus on your emotional wellness. It’s similar to a traditional sick day, except that you don’t need to have a physical illness or injury to use it.
+A mental health day can consist of taking a day off work or school to focus on emotional wellness. It’s similar to a sick day, except that you don’t need to have a physical ailment to use it.
 
 Some common reasons people take mental health days are:
 
@@ -29,12 +29,13 @@ To personalize who the day is for, add your name or handle via `?for=` when link
 
 ## What should I do on a mental health day?
 
-- **Get outside** - A [Stanford][stanford] study showed that those who live in dense cities are 20% more likely to experience anxiety disorders than individuals who live in more rural, or “green”, areas. So take a walk or sit on a park bench and enjoy the world around you.
-- **Rest** - If you’re feeling sleep deprived, or dealing with a particularly bad stint of anxiety or depression, you may just need to rest. Sleep until you naturally wake up, ask your partner to get the kids up that morning, or plan a nap during the day. Take the time to truly do nothing but rest your body.
-- **Active rest** - You don’t need to be an expert to reap the benefits of meditation, which makes it a great practice for relaxation and disconnecting. It could be as simple as setting aside time to do some deep breathing in a quiet room, or you could use a guided meditation.
+- **Get outside** - Being outside and in nature has been proven to improve mood and reduce stress levels. Activities like [forest bathing][forest-bathing] can lead to a wide range of both physical and mental benefits.
+- **Rest** - If you’re feeling consistently tired, or are dealing with anxiety/depression, you may need more rest than you're getting. Try sleeping until you naturally wake up, asking your partner to get the kids up that morning, or prioritizing time for an afternoon nap during the day.
+- **Active rest** - Explore relaxation or wellness programs or apps, which may incorporate meditation, muscle relaxation, or breathing exercises. Schedule regular times for these and other healthy activities you enjoy such as journaling.
 - **Set goals and priorities** - Decide what must get done now and what can wait. Learn to say “no” to new tasks if you start to feel like you’re taking on too much. Try to be mindful of what you have accomplished at the end of the day, not what you have been unable to do.
 - **Practice gratitude** - Remind yourself daily of things you are grateful for. Be specific. Write them down at night, or replay them in your mind.
 - **Focus on positivity** - Identify and challenge your negative and unhelpful thoughts.
+- **Stay connected** - Reach out to your friends or family members who can provide emotional support and practical help.
 
 <br/>
 
@@ -53,7 +54,7 @@ Seek professional help if you are experiencing severe or distressing symptoms th
 
 Don’t wait until your symptoms are overwhelming. Talk about your concerns with your primary care provider, who can refer you to a mental health professional if needed. If you don’t know where to start, read the [National Institute of Mental Health (NIMH) Tips for Talking With a Health Care Provider About Your Mental Health][nimh-tips]. Learn more about how to get help or find a provider on the [NIMH’s Help for Mental Illnesses webpage][nimh-help].
 
-[stanford]: https://news.stanford.edu/2015/06/30/hiking-mental-health-063015/
+[forest-bathing]: https://www.rei.com/blog/hike/theres-no-running-in-forest-bathing
 [nimh-tips]: https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider/index.shtml
 [nimh-help]: https://www.nimh.nih.gov/health/find-help/index.shtml
 [twloha]: https://twloha.com/find-help/international-resources/
