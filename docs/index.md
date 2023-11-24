@@ -23,16 +23,16 @@ Some common reasons people take mental health days are:
 
 Use mentalhealth.day as a status in your workplace's chat apps ("I'm taking a [mentalhealth.day](https://mentalhealth.day)"), as your out of office auto-reply email, or on social media to indicate you're taking a break. Spreading awareness and normalizing self-care are important ways to destigmatize mental health.
 
-To personalize who the day is for, add your name or handle via `?for=` when linking to the site: [mentalhealth.day?for=John%20Doe](https://mentalhealth.day?for=John%20Doe)
+To personalize who the day is for, add your name or handle via `?for=` when linking to the site:
 
-<!-- Target -->
-<input id="custom_url" value="https://mentalhealth.day?for=">
-
-<!-- Trigger -->
+<div id="input">
+<span>
+<input id="custom_url" style="padding-top: 3px;padding-bottom: 3px;padding-left: 3px;padding-right: 3px;" type="url" size=50 value="https://mentalhealth.day?for=">
 <button class="btn" data-clipboard-target="#custom_url">
-    <img src="/assets/img/clippy.svg" alt="Copy to clipboard">
+    <img src="assets/img/clippy.svg" width=13 alt="Copy to clipboard">
 </button>
-
+</span>
+</div>
 <br/>
 
 ## What should I do on a mental health day?
