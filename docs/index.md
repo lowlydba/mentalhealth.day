@@ -25,6 +25,14 @@ Use mentalhealth.day as a status in your workplace's chat apps ("I'm taking a [m
 
 To personalize who the day is for, add your name or handle via `?for=` when linking to the site: [mentalhealth.day?for=John%20Doe](https://mentalhealth.day?for=John%20Doe)
 
+<!-- Target -->
+<input id="custom_url" value="https://mentalhealth.day?for=">
+
+<!-- Trigger -->
+<button class="btn" data-clipboard-target="#custom_url">
+    <img src="/assets/img/clippy.svg" alt="Copy to clipboard">
+</button>
+
 <br/>
 
 ## What should I do on a mental health day?
