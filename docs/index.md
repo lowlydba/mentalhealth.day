@@ -1,6 +1,11 @@
 ---
 layout: page
 title: I am taking a mental health day.
+image:
+  path: /assets/img/favicon.svg
+  height: 600
+  width: 1200
+  alt: mentalhealth.day logo
 ---
 
 <br/>
