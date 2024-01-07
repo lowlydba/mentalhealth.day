@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I am taking a mental health day.
+title: <a href="" class="typewrite" data-period="2000" data-type='[ "I am taking a mental health day.", "Sam is taking a mental health day.", "Alex is taking a mental health day." ]'> <span class="wrap"></span>
 image:
   path: /assets/img/og.png
   height: 600
