@@ -13,7 +13,7 @@ image:
 
 ## What is a mental health day?
 
-A mental health day can consist of taking a day off work or school to focus on emotional wellness. It’s similar to a sick day, except that you don’t need to have a physical ailment to use it.
+A mental health day can consist of taking a day off work or school to focus on emotional wellness. It’s similar to a sick day, except that you don’t need to have a physical ailment to use it. Many people — including those whose brains work in unique ways — find that stepping back can help manage everyday pressures such as sensory overload or the exhaustion of meeting life's demands.
 
 Some common reasons people take mental health days are:
 
@@ -26,17 +26,28 @@ Some common reasons people take mental health days are:
 
 ## What is this site for?
 
-Use mentalhealth.day as a status in your workplace's chat apps ("I'm taking a [mentalhealth.day](https://mentalhealth.day)"), as your out of office auto-reply email, or on social media to indicate you're taking a break. Spreading awareness and normalizing self-care are important ways to destigmatize mental health.
+Use mentalhealth.day as a status in your workplace's chat apps ("I'm taking a [mentalhealth.day](https://mentalhealth.day)"), as your out of office auto-reply email, or on social media to indicate you're taking a break. Spreading awareness and normalizing self-care are important ways to destigmatize mental health and recognize that mental wellness looks different for everyone.
 
-To personalize who the day is for, add your name or handle via `?for=` when linking to the site:
+To personalize who the day is for, add your name or handle to the URL:
 
 <div id="input">
 <span>
-<input id="custom_url" style="padding-top: 3px;padding-bottom: 3px;padding-left: 3px;padding-right: 3px;" type="url" size=50 value="https://mentalhealth.day?for=">
-<button class="btn" data-clipboard-target="#custom_url">
-    <img src="assets/img/clippy.svg" width=13 alt="Copy to clipboard">
-</button>
+    <input id="name_input" style="padding: 3px;" type="text" size=50 placeholder="Enter your name">
+    <button class="btn" data-clipboard-target="#url_preview">
+        <img src="assets/img/clippy.svg" width=13 alt="Copy to clipboard">
+    </button>
 </span>
+<br>
+<span id="url_preview">https://mentalhealth.day?for=</span>
+
+<script>
+    document.getElementById('name_input').addEventListener('input', function() {
+        var name = document.getElementById('name_input').value;
+        var encodedName = encodeURIComponent(name);
+        var url = "https://mentalhealth.day?for=" + encodedName;
+        document.getElementById('url_preview').textContent = url;
+    });
+</script>
 </div>
 <br/>
 
