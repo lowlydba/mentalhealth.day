@@ -60,6 +60,7 @@ To personalize who the day is for, add your name or handle to the URL:
 - **Practice gratitude** - Remind yourself daily of things you are grateful for. Be specific. Write them down at night, or replay them in your mind.
 - **Focus on positivity** - Identify and challenge your negative and unhelpful thoughts.
 - **Stay connected** - Reach out to your friends or family members who can provide emotional support and practical help.
+- **Honor your sensory needs** - If you’re sensitive to noise, crowds, or other stimuli, create or seek out a low-sensory environment where you can recharge without feeling overwhelmed.
 
 <br/>
 
