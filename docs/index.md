@@ -49,6 +49,7 @@ To personalize who the day is for, add your name or handle to the URL:
     });
 </script>
 </div>
+
 <br/>
 
 ## What should I do on a mental health day?
@@ -78,6 +79,14 @@ Seek professional help if you are experiencing severe or distressing symptoms th
 - Inability to perform usual daily functions and responsibilities
 
 Don’t wait until your symptoms are overwhelming. Talk about your concerns with your primary care provider, who can refer you to a mental health professional if needed. If you don’t know where to start, read the [National Institute of Mental Health (NIMH) Tips for Talking With a Health Care Provider About Your Mental Health][nimh-tips]. Learn more about how to get help or find a provider on the [NIMH’s Help for Mental Illnesses webpage][nimh-help].
+
+## Share this page
+
+- [![Share on Twitter](https://img.shields.io/badge/-Share%20on%20X-1DA1F2?logo=x&logoColor=white)](https://x.com/intent/tweet?text=I%27m%20taking%20a%20mentalhealth.day)
+- [![Share on LinkedIn](https://img.shields.io/badge/-Share%20on%20LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://mentalhealth.day)
+- [![Share on Facebook](https://img.shields.io/badge/-Share%20on%20Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://mentalhealth.day)
+- [![Share on Reddit](https://img.shields.io/badge/-Share%20on%20Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://mentalhealth.day&title=I%27m%20taking%20a%20mentalhealth.day)
+- [![Share on Teams](https://img.shields.io/badge/-Share%20on%20Teams-6264A7?logo=microsoftteams&logoColor=white)](https://teams.microsoft.com/share?href=https://mentalhealth.day&msgText=I%27m%20taking%20a%20mentalhealth.day)
 
 [forest-bathing]: https://www.rei.com/blog/hike/theres-no-running-in-forest-bathing
 [nimh-tips]: https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider/index.shtml
