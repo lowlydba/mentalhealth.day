@@ -80,6 +80,8 @@ Seek professional help if you are experiencing severe or distressing symptoms th
 
 Don’t wait until your symptoms are overwhelming. Talk about your concerns with your primary care provider, who can refer you to a mental health professional if needed. If you don’t know where to start, read the [National Institute of Mental Health (NIMH) Tips for Talking With a Health Care Provider About Your Mental Health][nimh-tips]. Learn more about how to get help or find a provider on the [NIMH’s Help for Mental Illnesses webpage][nimh-help].
 
+<br/>
+
 ## Share this page
 
 - [![Share on Twitter](https://img.shields.io/badge/-Share%20on%20X-1DA1F2?logo=x&logoColor=white)](https://x.com/intent/tweet?text=I%27m%20taking%20a%20mentalhealth.day)
