@@ -67,7 +67,9 @@ To personalize who the day is for, add your name or handle to the URL:
 
 ## Need more than just a day off?
 
-For urgent help in the United States, dial 988 to reach the [Suicide & Crisis Lifeline][988]. For outside the US, check [To Write Love On Her Arms' international resources][twloha].
+For urgent help in the United States, dial 988 to reach the [Suicide & Crisis Lifeline][988], or text HOME / HOLA to 74174 for the [Crisis Text Line](https://www.crisistextline.org/). 
+
+For outside the US, check [To Write Love On Her Arms' international resources][twloha].
 
 Seek professional help if you are experiencing severe or distressing symptoms that have lasted 2 weeks or more, such as:
 
